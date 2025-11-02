@@ -107,3 +107,7 @@ Proiect realizat în cadrul: Link Academy – Task Machine Learning 3
 Limbaj: Python 3.10+
 
 Biblioteci: pandas, scikit-learn, matplotlib, seaborn
+
+## Licență
+
+Acest proiect este licențiat sub [Licența MIT](LICENSE).
