@@ -1,0 +1,8 @@
+# Ignoră fișierul model mare
+models/model.pkl
+
+# Alte fișiere temporare
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
