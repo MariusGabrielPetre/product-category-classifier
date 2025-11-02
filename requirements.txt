@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+
+# Pentru a instala toate bibliotecile, rulează în terminal:
+
+# pip install -r requirements.txt
